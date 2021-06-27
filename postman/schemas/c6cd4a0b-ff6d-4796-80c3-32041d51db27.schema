@@ -10,7 +10,7 @@ paths:
       summary: 'Sample endpoint: Returns details about a particular user'
       operationId: listUsers
       tags:
-        - user
+        - userss
       parameters:
         - name: id
           in: query
